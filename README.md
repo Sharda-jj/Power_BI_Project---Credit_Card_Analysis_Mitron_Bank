@@ -1,31 +1,80 @@
-# Power_BI_Project---Credit_Card_Analysis_Mitron_Bank
-Business Challenge
+# Power BI Project – Credit Card Analysis for Mitron Bank
 
-Mitron Bank, a leading financial institution in Hyderabad, aims to introduce a new range of credit cards to strengthen its market presence. However, before a full-scale rollout, the bank's Strategy Director, Mr. Bashnir Rover, sought data-driven validation. AtliQ Data Services was tasked with conducting a pilot study using a dataset of 4,000 customers across five cities to assess spending patterns and credit card usage trends.
+## Business Challenge
 
-🎯 Project Objective
+Mitron Bank, a leading financial institution based in Hyderabad, aimed to launch a new range of credit cards to strengthen its market position. Before executing a full-scale rollout, the Strategy Director, Mr. Bashnir Rover, sought data-backed validation. AtliQ Data Services conducted a pilot study using a dataset of 4,000 customers across five cities to explore spending behavior and credit card usage patterns.
 
-The objective was to analyze transaction behaviors, identify potential user segments, and generate insights to help Mitron Bank design credit card offerings that align with customer preferences and market trends.
+---
 
-📊 Core Metrics Analyzed
+## Project Objective
 
-🔹 Spending Efficiency (Income Utilization %): Measures how much of a customer's income is allocated to spending (Avg. Spend / Avg. Income). Higher values indicate potential credit card users.
-🔹 Credit Dependency (Credit Card Usage %): The proportion of total expenses paid via credit cards (Total Credit Card Spent / Total Spend).
+The primary objective was to analyze transaction behaviors, identify potential customer segments, and provide actionable insights to support the design of targeted credit card offerings aligned with user preferences and regional market trends.
 
-🔍 Key Findings
+---
 
-📌 Age Influence: Young professionals (25–34) were the biggest spenders, whereas middle-aged individuals (35–45) had the highest reliance on income for expenses.
-📌 Gender Trends: Men spent 67% more than women, yet their credit dependence remained moderate at 53%, suggesting different financial priorities.
-📌 Marital Status Effect: Married individuals dominated spending with 80% contribution, but singles and married users showed similar spending efficiency (~50%).
-📌 Geographical Insights: Mumbai residents spent the most overall, while Delhi and Chennai customers had the highest income utilization rates (41%).
-📌 Occupation-Based Patterns: IT employees showed both high spending and credit card adoption, whereas government workers relied more heavily on credit for transactions.
-📌 Category Preferences: Bills accounted for the largest share of expenses, while travel & electronics purchases were primarily financed via credit cards.
+## Core Metrics Analyzed
 
-💡 Strategic Recommendations
+- **Spending Efficiency (Income Utilization %):**  
+  Measures the proportion of income spent by customers (Avg. Spend / Avg. Income). A higher percentage indicates greater spending potential and credit card usage likelihood.
 
-✅ Personalized Credit Card Offers – Introduce custom credit limits & benefits based on user behavior.
-✅ Collaborations & Perks – Partner with retail, travel, and e-commerce platforms to increase credit card adoption.
-✅ Flexible Interest Rates – Design dynamic interest plans based on spending habits and repayment patterns.
-✅ Loyalty & Reward Programs – Implement cashback and milestone-based rewards to encourage usage.
-✅ Financial Literacy Initiatives – Educate high-income but low-credit users on responsible credit usage to expand adoption.
+- **Credit Dependency (Credit Card Usage %):**  
+  Indicates the share of total expenses covered using credit cards (Total Credit Card Spend / Total Spend). This helps in assessing reliance on credit over cash.
+
+---
+
+## Key Findings
+
+- **Age Influence:**  
+  Young professionals (ages 25–34) were the highest spenders, while the 35–45 age group relied more on income for expenses.
+
+- **Gender Trends:**  
+  Male customers spent 67% more than female customers. However, their credit dependency remained moderate at 53%, indicating different financial behavior patterns.
+
+- **Marital Status:**  
+  Married individuals contributed to 80% of overall spending. Despite this, both married and single customers exhibited similar spending efficiency (~50%).
+
+- **Geographical Insights:**  
+  Mumbai led in total spending, while Delhi and Chennai recorded the highest income utilization rates (~41%).
+
+- **Occupation-Based Patterns:**  
+  IT professionals showed high spending and credit card adoption. In contrast, government employees demonstrated stronger reliance on credit for their transactions.
+
+- **Category Preferences:**  
+  Bill payments formed the largest share of expenses. Travel and electronics, however, were primarily funded via credit cards, suggesting category-specific financing preferences.
+
+---
+
+## Strategic Recommendations
+
+- **Personalized Credit Card Offers:**  
+  Customize credit card limits and benefits based on individual spending and income profiles.
+
+- **Retail & E-commerce Collaborations:**  
+  Form partnerships with travel, electronics, and retail brands to offer targeted perks and promotions.
+
+- **Dynamic Interest Rates:**  
+  Implement flexible interest rate structures based on spending consistency and repayment behavior.
+
+- **Loyalty & Reward Programs:**  
+  Introduce cashback incentives and milestone-based rewards to drive consistent card usage.
+
+- **Customer Education Campaigns:**  
+  Launch initiatives to raise financial literacy, particularly for high-income customers with low credit usage, to expand cardholder adoption.
+
+---
+
+## Tools Used
+
+- Power BI  
+- DAX Measures  
+- Data Modeling  
+- Power Query for Data Transformation  
+- Interactive Visualizations (Bar Charts, Pie Charts, Card KPIs, Filters, Slicers)
+
+---
+
+## Final Deliverable
+
+- A comprehensive Power BI dashboard summarizing all key trends, comparisons, and recommendations.  
+- Data-driven insights used to support credit card strategy formulation for pilot and full-scale rollouts.
 
