@@ -78,3 +78,15 @@ The primary objective was to analyze transaction behaviors, identify potential c
 - A comprehensive Power BI dashboard summarizing all key trends, comparisons, and recommendations.  
 - Data-driven insights used to support credit card strategy formulation for pilot and full-scale rollouts.
 
+## How to Use
+
+1. **Clone the Repository**: Clone this project repository from GitHub.
+2. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
+3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
+4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
+
+## Author - SHARDA JADHAV
+
+This project is part of my portfolio, showcasing the POWER BI skills essential for data analyst roles. 
+
+
